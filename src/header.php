@@ -22,6 +22,9 @@
         
         <!-- CSS Libs/Frameworks -->
         <link rel="stylesheet" href="<?php echo SITE_URL ?>/vendor/bootstrap/bootstrap.min.css" type="text/css" />
+        <link rel="stylesheet" href="<?php echo SITE_URL ?>/vendor/owl2/owl.carousel.min.css" type="text/css" />
+        <link rel="stylesheet" href="<?php echo SITE_URL ?>/vendor/owl2/owl.theme.default.min.css" type="text/css" />
+
 
         <!--CSS-->
         <link href="css/stylesheet.css" rel="stylesheet" type="text/css">

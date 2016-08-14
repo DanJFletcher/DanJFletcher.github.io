@@ -19,6 +19,7 @@
     "jquery": "2",
     "bootstrap": "3",
     "normalize-strings": "normalize#^1.1.0",
-    "normalize-css": "normalize.css#^4.2.0"
+    "normalize-css": "normalize.css#^4.2.0",
+    "owl.carousel": "^2.1.6"
   }
 }
