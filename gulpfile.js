@@ -27,12 +27,16 @@ var plugins = require("gulp-load-plugins")({
 });
  
  
- 
+// Move JS Files Into Build
+gulp.task('build-js', function() {
+   gulp.src('src/js/*.js')
+   .pipe(gulp.dest('build/js'));
+});
  
 
 // Minifies JS Files
 gulp.task('compress-js', function() {
-  gulp.src('src/js/*.js')
+  gulp.src('build/js/*.js')
     .pipe(plugins.minify({
         ext:{
             src:'.js',
@@ -138,6 +142,7 @@ gulp.task('dist', [
         'dist-images',
         'dist-vendor-css',
         'dist-vendor-js',
+        'compress-js',
         'dist-php'
     ]);
 
@@ -148,5 +153,6 @@ gulp.task('default', [
         'images', 
         'build-vendor-css',
         'build-vendor-js',
+        'build-js',
         'build-php'
     ]);
