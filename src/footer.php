@@ -67,6 +67,7 @@ require('../env.php');
 
 <!-- Load Custom Scripts -->
 <script src="js/loader.js"></script>
+<script src="js/plugins.js"></script>
 
 </body>
 </html>
