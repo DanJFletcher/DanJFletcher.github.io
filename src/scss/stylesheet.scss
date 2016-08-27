@@ -264,6 +264,16 @@ section {
 	width: 100%;
 }
 
+.inline-link {
+	color: #999;
+	border-bottom: solid #999 2px;
+	font-size: 85%;
+}
+
+.inline-link:hover {
+	color: #444;
+}
+
 /*MEDIA QUERIES*/
 
 	@media (max-width: 1400px) {
