@@ -1,8 +1,9 @@
 /* To be refactored... */
 /* Variables */
 
-$primary: #C2554C;
-$btn-light: #EB8982;
+$primary: #444; // #C2554C;
+$btn-light: #999; // #EB8982;
+$patioDepotPrimary: #40C1C6;
 
 /*RESET*/
 
@@ -24,6 +25,10 @@ $btn-light: #EB8982;
 body {
 	background-image: url(../images/backgrounds/white-texture.jpg);
 	background-size: cover;
+}
+
+.patio-depot-heading {
+	color: $patioDepotPrimary;
 }
 
 main {
@@ -251,6 +256,12 @@ section {
   visibility: hidden;
 	transform: translateY(-100%);
 	transition: all 0.3s 2s ease-out;
+}
+
+/* Projects */
+
+.project-thumbnail {
+	width: 100%;
 }
 
 /*MEDIA QUERIES*/
