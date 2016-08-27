@@ -31,24 +31,20 @@
                 <h3>The Family Central Restaruant</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/family_central_landing_page.png" alt="Family Central Restaruant landing page">
                 <p>Developed dynamic events calendar and event pages.</p>
-                <a href="#" class="btn">See Project</a>
+                <a href="familycentral.php" class="btn">See Project</a>
               </div>
               <div>
                 <h3>The London Beatles Fest Trivia</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/beatles_landing_page.png" alt="The London Beatles Festival Trivia landing page">
                 <p>Developed a multiple choice, timed quiz that has user authentication, custom admin dashboard and date-triggered events.</p>
-                <a href="#" class="btn">See Project</a>
+                <a href="beatlesfest.php" class="btn">See Project</a>
               </div>
               <div>
                 <h3>Patio Depot</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/patio_depot_landing_page.jpg" alt="Patio Depot landing page">
                 <p>Developed a mobile-first, responsive, website with static conetent.</p>
-                <a href="#" class="btn">See Project</a>
+                <a href="patiodepot.php" class="btn">See Project</a>
               </div>
-              <div> Your Content </div>
-              <div> Your Content </div>
-              <div> Your Content </div>
-              <div> Your Content </div>
             </div>
         </section>
         </main>
