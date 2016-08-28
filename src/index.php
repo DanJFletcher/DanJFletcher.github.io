@@ -29,7 +29,7 @@
         <section class="work" id="projects">
           <h2>Showcase.</h2>
           <hr />
-          <p>Here are some samples of my professional work. Click the "See Project" button to view more details.</p>
+          <p>Here are some samples of my professional work as well as some of my side projects. Click the "See Project" button to view more details.</p>
             <div class="owl-carousel owl-theme">
               <div>
                 <h3>The Family Central Restaruant</h3>
@@ -48,6 +48,12 @@
                 <img src="<?= SITE_URL ?>/images/screenshots/patio_depot_landing_page.jpg" alt="Patio Depot landing page">
                 <p>Mobile-first, responsive, website with static conetent.</p>
                 <a href="patiodepot.php" class="btn btn-light">See Project</a>
+              </div>
+              <div>
+                <h3>Electronic Calculator</h3>
+                <img src="<?= SITE_URL ?>/images/screenshots/electronic_calculator.jpg" alt="Electronic Calculator">
+                <p>Web app simulating a simple desktop calculator.</p>
+                <a href="//danjfletcher.github.io/electronic-calculator/" class="btn btn-light">See Project</a>
               </div>
             </div>
         </section>
