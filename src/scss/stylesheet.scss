@@ -107,6 +107,13 @@ section {
 	#header-logo {
 		width: 100px;
 		float: left;
+		filter: grayscale(100%);
+		transition: filter 600ms linear;
+	}
+	
+	#header-logo:hover {
+		filter: grayscale(0%);
+		transition: filter 600ms linear;
 	}
 
 	#header-logo img {
