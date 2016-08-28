@@ -21,6 +21,10 @@
           <a class="btn btn-light" href="">Hire Me</a>
         </section>
         
+        <div class="padding">
+          <i class="icono-arrow1-down"></i>
+        </div>
+        
         
         <section class="work" id="projects">
           <h2>My Work.</h2>
@@ -31,13 +35,13 @@
                 <h3>The Family Central Restaruant</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/family_central_landing_page.png" alt="Family Central Restaruant landing page">
                 <p>Developed dynamic events calendar and event pages.</p>
-                <a href="familycentral.php" class="btn btn-light">See Project</a>
+                <a href="http://familycentral.ca/" target="_blank" class="btn btn-light">Visit Site</a>
               </div>
               <div>
                 <h3>The London Beatles Fest Trivia</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/beatles_landing_page.png" alt="The London Beatles Festival Trivia landing page">
                 <p>Developed a multiple choice, timed quiz that has user authentication, custom admin dashboard and date-triggered events.</p>
-                <a href="beatlesfest.php" class="btn btn-light">See Project</a>
+                <a href="http://trivia.thelondonbeatlesfestival.com/" target="_blank" class="btn btn-light">Visit Site</a>
               </div>
               <div>
                 <h3>Patio Depot</h3>
