@@ -18,7 +18,7 @@
           <h2>About Me.</h2>
           <hr />
           <p>Clean. Responsive. Mobile-first. Simple. This is the montra of the modern developer, and words I live by when developing my own projects. Developing clean, elagant sites by day, and studying computer science by night. I'm a developer with a drive to create the best.</p>
-          <a class="btn" href="">Hire Me</a>
+          <a class="btn btn-light" href="">Hire Me</a>
         </section>
         
         
@@ -31,19 +31,19 @@
                 <h3>The Family Central Restaruant</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/family_central_landing_page.png" alt="Family Central Restaruant landing page">
                 <p>Developed dynamic events calendar and event pages.</p>
-                <a href="familycentral.php" class="btn">See Project</a>
+                <a href="familycentral.php" class="btn btn-light">See Project</a>
               </div>
               <div>
                 <h3>The London Beatles Fest Trivia</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/beatles_landing_page.png" alt="The London Beatles Festival Trivia landing page">
                 <p>Developed a multiple choice, timed quiz that has user authentication, custom admin dashboard and date-triggered events.</p>
-                <a href="beatlesfest.php" class="btn">See Project</a>
+                <a href="beatlesfest.php" class="btn btn-light">See Project</a>
               </div>
               <div>
                 <h3>Patio Depot</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/patio_depot_landing_page.jpg" alt="Patio Depot landing page">
                 <p>Developed a mobile-first, responsive, website with static conetent.</p>
-                <a href="patiodepot.php" class="btn">See Project</a>
+                <a href="patiodepot.php" class="btn btn-light">See Project</a>
               </div>
             </div>
         </section>

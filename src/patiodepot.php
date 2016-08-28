@@ -16,6 +16,7 @@
         <main>
             <section class="project-description">
                 <h1 class="patio-depot-heading">Patio Depot of Destin Florida</h1>
+                <a class="btn patio-depot-btn" href="http://patiodepotofdestin.com/" target="_blank">Visit Site</a>
                 <img class="project-thumbnail" src="<?= SITE_URL ?>/images/screenshots/patio_depot_landing_page.jpg" alt="Patio Depot landing page">
                 
                 <p>This was a fun one! The furniture that this company sells down in Florida is the same furniture that I used to machine and assemble while working for CRP Products Inc.</p>
