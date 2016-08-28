@@ -64,5 +64,11 @@ require('../env.php');
 
 <?php endif ?>
 
+
+<!-- Load Custom Scripts -->
+<script src="js/loader.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/smoothscroll.js"></script>
+
 </body>
 </html>
