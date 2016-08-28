@@ -27,9 +27,9 @@
         
         
         <section class="work" id="projects">
-          <h2>My Work.</h2>
+          <h2>Showcase.</h2>
           <hr />
-          <p>Here are some short snippets to showcase samples of my professional work. Click the "See Project" button to view more details about any of my projects.</p>
+          <p>Here are some samples of my professional work. Click the "See Project" button to view more details.</p>
             <div class="owl-carousel owl-theme">
               <div>
                 <h3>The Family Central Restaruant</h3>
