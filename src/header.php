@@ -5,7 +5,7 @@
  */
  
  // Requires go here.
- require('../env.php');
+ require('env.php');
 ?>
 
 <!DOCTYPE html>
