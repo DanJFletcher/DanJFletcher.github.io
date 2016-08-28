@@ -34,19 +34,19 @@
               <div>
                 <h3>The Family Central Restaruant</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/family_central_landing_page.png" alt="Family Central Restaruant landing page">
-                <p>Developed dynamic events calendar and event pages.</p>
+                <p>Dynamic events calendar and custom event pages.</p>
                 <a href="http://familycentral.ca/" target="_blank" class="btn btn-light">Visit Site</a>
               </div>
               <div>
                 <h3>The London Beatles Fest Trivia</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/beatles_landing_page.png" alt="The London Beatles Festival Trivia landing page">
-                <p>Developed a multiple choice, timed quiz that has user authentication, custom admin dashboard and date-triggered events.</p>
+                <p>Multiple choice, timed quiz that has user authentication, custom admin dashboard and date-triggered events.</p>
                 <a href="http://trivia.thelondonbeatlesfestival.com/" target="_blank" class="btn btn-light">Visit Site</a>
               </div>
               <div>
                 <h3>Patio Depot</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/patio_depot_landing_page.jpg" alt="Patio Depot landing page">
-                <p>Developed a mobile-first, responsive, website with static conetent.</p>
+                <p>Mobile-first, responsive, website with static conetent.</p>
                 <a href="patiodepot.php" class="btn btn-light">See Project</a>
               </div>
             </div>
