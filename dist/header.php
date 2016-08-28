@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    	<title>Dan Fletcher - Home</title>
+    	<title>Dan Fletcher</title>
 
         <!--META-->
         <meta charset="utf-8">
