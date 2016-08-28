@@ -77,4 +77,12 @@
                   <div class="clear"></div>
               </div>
             </div>
+            
+            <section class="social-links">
+                <a href="//linkedin.com" target="_blank" title="LinkedIn"><img src="images/icons/icon_linkedin.png" alt="LinkedIn" /></a>
+                <a href="//facebook.com" target="_blank" title="Facebook"><img src="images/icons/icon_facebook.png" alt="Facebook" /></a>
+                <a href="//plus.google.com" target="_blank" title="Google Plus"><img src="images/icons/icon_googleplus.png" alt="Google Plus" /></a>
+                <a href="//twitter.com" target="_blank" title="Twitter"><img src="images/icons/icon_twitter.png" alt="Twitter" /></a>
+                <a href="//github.com" target="_blank" title="Github"><img src="images/icons/icon_github.png" alt="Github" /></a>
+            </section>
         </header>

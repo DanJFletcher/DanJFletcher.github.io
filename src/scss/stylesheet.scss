@@ -5,6 +5,9 @@ $primary: #444; // #C2554C;
 $btn-light: #999; // #EB8982;
 $patioDepotPrimary: #40C1C6;
 $patioDepotDark: #2F9194;
+$twiiter: #2dabe0;
+$github: #111;
+$facebook: #4e71a6;
 
 /*RESET*/
 
@@ -155,6 +158,22 @@ section {
 	.header-menuitem:hover {
 		color: #2f2f2f;
 		transition: .25s ease all;
+	}
+	
+	/* SOCIAL ICONS */
+	.social-links {
+	    text-align: center;
+	    
+	    img {
+	        display: inline-block;
+	        width: 30px;
+	        transition: filter 1s;
+	    }
+	    
+	    img:hover {
+	        filter: brightness(0);
+	        transition: filter 1s;
+	    }
 	}
 	
 /* ABOUT BLURB */
