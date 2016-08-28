@@ -31,6 +31,21 @@ body {
 	background-size: cover;
 }
 
+hr {
+	border: none;
+	text-align: center;
+	position: relative;
+	margin: 3.8rem;
+}
+
+hr:after {
+	content: "...";
+	display: inline-block;
+	position: absolute;
+	font-size: 2.4em;
+	bottom: -25px;
+}
+
 .patio-depot-heading {
 	color: $patioDepotPrimary;
 }
@@ -187,6 +202,7 @@ section {
 
 .padding {
 	margin: 3em 0;
+	padding: 20px 5px;
 }
 
 /* PAGE LOADER */
@@ -304,6 +320,10 @@ section {
 /* SHOWCASE */
 .showcase-title {
 	font-size: 0.7em;
+}
+
+.showcase-description {
+	margin-bottom: 20px;
 }
 
 

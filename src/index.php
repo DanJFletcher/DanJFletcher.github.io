@@ -30,7 +30,7 @@
         <section class="work" id="projects">
           <h2>Showcase.</h2>
           <hr />
-          <p>Here are some samples of my professional work as well as some of my side projects. Click the "See Project" button to view more details.</p>
+          <p class="showcase-description">Here are some samples of my professional work as well as some of my side projects. Click the "See Project" button to view more details.</p>
             <div class="owl-carousel owl-theme">
               <div>
                 <h3 class="showcase-title">The Family Central Restaruant</h3>
