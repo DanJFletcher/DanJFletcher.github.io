@@ -18,8 +18,8 @@
           <h2>About Me.</h2>
           <hr />
           <p>Clean. Responsive. Mobile-first. Simple. This is the montra of the modern developer, and words I live by when developing my own projects. Developing clean, elagant sites by day, and studying computer science by night. I'm a developer with a drive to create the best.</p>
-          <a href="mailto:dan@danjfletcher.ca" class="btn btn-light" href="">Email Me</a>
-          <a href="<?= SITE_URL ?>/docs/CV_08-27-2016.pdf" class="btn btn-light btn-margin-sides" href="">View CV</a>
+          <a href="mailto:dan@danjfletcher.ca" class="btn btn-light btn-margin">Email Me</a>
+          <a href="<?= SITE_URL ?>/docs/CV_08-27-2016.pdf" class="btn btn-light btn-margin" href="">View CV</a>
         </section>
         
         <div class="padding">
