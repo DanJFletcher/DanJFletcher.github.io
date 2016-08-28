@@ -42,7 +42,7 @@ npm-debug.log
 # This folder is the minified and compressed version of the source code. It's 
 # the version that is distributed to the final homestead on a live production
 # server.
-/dist
+
 
 # env.php is a file that is used for environment setup.
 # Including this in the repository only overrides dev settings. Only the
