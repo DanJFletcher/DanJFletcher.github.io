@@ -32,6 +32,10 @@
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">
         <link href="https://fonts.googleapis.com/css?family=Arvo:400,700" rel="stylesheet">
+        
+        <!-- SEO -->
+        <meta name="description" content="I am a web developer in Stratford Ontario and surrounding area. Experienced in Wordpress and custom CMS's.">
+        <meta name="keywords" content="web developer, websites, stratford ontario, wordpress, open cart">
 
 
     </head>
