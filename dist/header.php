@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    	<title>Beard Pack</title>
+    	<title>Dan Fletcher - Home</title>
 
         <!--META-->
         <meta charset="utf-8">
