@@ -52,21 +52,21 @@
             <div id="header-menuholder" class="full">
             	<div class="center">
                 	<div id="header-logo">
-                    	<a href="index.html" title="Home"><img src="images/logos/profile-pic.jpg" alt="Profile"></a>
+                    	<a href="<?= SITE_URL ?>" title="Home"><img src="images/logos/profile-pic.jpg" alt="Profile"></a>
                   </div>
 
                   <div id="header-menu">
                   	<div class="header-menuitem">
-                      	about
+                      	<a href="<?= SITE_URL ?>#about">about</a>
                     </div>
                   	<div class="header-menuitem">
-                      	projects
+                      	<a href="<?= SITE_URL ?>#projects">projects</a>
                     </div>
                   	<div class="header-menuitem">
-                      	testamonies
+                      	<a href="<?= SITE_URL ?>#testamonies">testamonies</a>
                     </div>
                   	<div class="header-menuitem">
-                      	contact
+                      	<a href="<?= SITE_URL ?>#contact">contact</a>
                     </div>
                     <div class="clear"></div>
                   </div> <!-- end #header-menu -->

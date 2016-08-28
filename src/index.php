@@ -14,7 +14,7 @@
 
 <!-- TODO: Add page content -->
         <main>
-        <section class="about">
+        <section class="about" id="about">
           <h2>About Me.</h2>
           <hr />
           <p>Clean. Responsive. Mobile-first. Simple. This is the montra of the modern developer, and words I live by when developing my own projects. Developing clean, elagant sites by day, and studying computer science by night. I'm a developer with a drive to create the best.</p>
@@ -22,7 +22,7 @@
         </section>
         
         
-        <section class="work">
+        <section class="work" id="projects">
           <h2>My Work.</h2>
           <hr />
           <p>Here are some short snippets to showcase samples of my professional work. Click the "See Project" button to view more details about any of my projects.</p>
