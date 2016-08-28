@@ -71,8 +71,10 @@
                     <div class="clear"></div>
                   </div> <!-- end #header-menu -->
                   <div class="main-heading">
-                  <h1>Dan Fletcher</h1>
-                  Web Developer
+                  <a href="<?= SITE_URL ?>" title="Home">
+                      <h1>Dan Fletcher</h1>
+                      Web Developer
+                  </a>
                   </div>
                   <div class="clear"></div>
               </div>
