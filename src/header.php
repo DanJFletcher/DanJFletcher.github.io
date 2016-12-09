@@ -61,16 +61,16 @@
 
                   <div id="header-menu">
                   	<div class="header-menuitem">
-                      	<a href="<?= SITE_URL ?>#about">about</a>
+                      	<a href="<?= SITE_URL ?>#about" title="About">about</a>
                     </div>
                   	<div class="header-menuitem">
-                      	<a href="<?= SITE_URL ?>#projects">projects</a>
+                      	<a href="<?= SITE_URL ?>#projects" title="Projects">projects</a>
                     </div>
                   	<div class="header-menuitem">
-                      	<a href="<?= SITE_URL ?>#testamonies">testamonies</a>
+                      	<a href="<?= SITE_URL ?>#testamonies" title="Testomonies">testamonies</a>
                     </div>
                   	<div class="header-menuitem">
-                      	<a href="<?= SITE_URL ?>#contact">contact</a>
+                      	<a href="<?= SITE_URL ?>#contact" title="Contact">contact</a>
                     </div>
                     <div class="clear"></div>
                   </div> <!-- end #header-menu -->
