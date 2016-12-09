@@ -71,6 +71,16 @@ section {
 	margin-bottom: 80px;
 }
 
+/* LINKS */
+.link-inline {
+	text-decoration: none;
+    color: #888;
+    border-bottom: 2px solid #666;
+    &:hover {
+    	color: #444;
+    }
+}
+
 /* BUTTONS */
 
 .btn {

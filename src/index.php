@@ -17,7 +17,16 @@
         <section class="about" id="about">
           <h2>About Me.</h2>
           <hr />
-          <p>Clean. Responsive. Mobile-first. Simple. This is the montra of the modern developer, and words I live by when developing my own projects. Developing clean, elagant sites by day, and studying computer science by night. I'm a developer with a drive to create the best.</p>
+          <p>
+            Web developer by trade. CS student at 
+            <a href="//www.uopeople.edu/" title="uopeople.edu" target="_blank" class="link-inline">
+              UoPeople</a>, 
+              student ambassador, 
+            <a href="//www.danfletcherblog.ca/" title="danfletcherblog.ca" target="_blank" class="link-inline">
+              blogger</a>, 
+              gamer, dad, hubby, enjoys walks, fishing, Lego, camping, blah blah etc 
+            etc - usually not in that order (in sequence or in magnitude).    
+          </p>
           <a href="mailto:dan@danjfletcher.ca" class="btn btn-light btn-margin">Email Me</a>
           <a href="<?= SITE_URL ?>/docs/CV_08-27-2016.pdf" target="_blank" class="btn btn-light btn-margin">View CV</a>
         </section>
