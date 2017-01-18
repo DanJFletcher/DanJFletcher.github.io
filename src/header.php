@@ -82,7 +82,7 @@
                       	<a href="<?= SITE_URL ?>#projects" title="Projects">projects</a>
                     </div>
                   	<div class="header-menuitem">
-                      	<a href="<?= SITE_URL ?>#testamonies" title="Testomonies">testamonies</a>
+                      	<a href="<?= SITE_URL ?>#testamonies" title="Testomonies">testimonies</a>
                     </div>
                   	<div class="header-menuitem">
                       	<a href="<?= SITE_URL ?>#contact" title="Contact">contact</a>
