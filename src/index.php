@@ -54,9 +54,11 @@
                 <a href="http://trivia.thelondonbeatlesfestival.com/" target="_blank" class="btn btn-light">Visit Site</a>
               </div>
               <div>
+                
+                <!-- Patio Depot -->
                 <h3 class="showcase-title">Patio Depot</h3>
                 <img src="<?= SITE_URL ?>/images/screenshots/patio_depot_landing_page.jpg" alt="Patio Depot landing page">
-                <p>Mobile-first, responsive, website with static conetent.</p>
+                <p>Mobile-first, responsive, website with static content.</p>
                 <a href="patiodepot.php" class="btn btn-light">See Project</a>
               </div>
               <div>
