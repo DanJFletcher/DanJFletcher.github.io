@@ -92,7 +92,7 @@ gulp.task('minify-html', function () {
 // Compress Images
 gulp.task('images', function() {
     return gulp.src('src/images/**/*')
-        .pipe(plugins.imagemin())
+        // .pipe(plugins.imagemin()) Doesn't seem to work...
         .pipe(gulp.dest('build/images'));
 });
 
