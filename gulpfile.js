@@ -43,7 +43,7 @@ gulp.task('compress-js', function() {
             min:'.min.js'
         }
     }))
-    .pipe(gulp.dest('dist'))
+    .pipe(gulp.dest('dist/js'))
 });
  
  
