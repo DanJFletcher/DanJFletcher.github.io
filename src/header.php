@@ -36,6 +36,21 @@
         <!-- SEO -->
         <meta name="description" content="I am a web developer in Stratford Ontario and surrounding area. Experienced in Wordpress and custom CMS's.">
         <meta name="keywords" content="web developer, websites, stratford ontario, wordpress, open cart">
+        
+        <!-- OG:Tags -->
+        <meta property="og:type" content="profile">
+        <meta property="og:title" content="Dan J Fletcher">
+        <meta property="og:url" content="danjfletcher.ca">
+        <meta property="og:image" content="http://www.danjfletcher.ca/images/logos/profile-pic.jpg">
+        <meta property="profile:first_name" content="Dan">
+        <meta property="profile:last_name" content="Fletcher">
+        
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@danfletcherblog">
+        <meta name="twitter:title" content="Dan Fletcher - Web Developer">
+        <meta name="twitter:description" content="Developing clean, elegant sites by day, and studying computer science by night. I'm a developer with a drive to create the best.">
+        <meta name="twitter:image" content="http://www.danjfletcher.ca/images/logos/profile-pic.jpg">
 
 
     </head>
