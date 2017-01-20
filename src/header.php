@@ -18,12 +18,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!-- Reset CSS -->
-        <link rel="stylesheet" href="<?php echo SITE_URL ?>/vendor/normalize-css/normalize.css" type="text/css" />
+        <!--<link rel="stylesheet" href="<?php // echo SITE_URL ?>/vendor/normalize-css/normalize.css" type="text/css" />-->
         
         <!-- CSS Libs/Frameworks -->
         <!--<link rel="stylesheet" href="<?php // echo SITE_URL ?>/vendor/bootstrap/bootstrap.min.css" type="text/css" />-->
-        <link rel="stylesheet" href="<?php echo SITE_URL ?>/vendor/owl2/owl.carousel.min.css" type="text/css" />
-        <link rel="stylesheet" href="<?php echo SITE_URL ?>/vendor/owl2/owl.theme.default.min.css" type="text/css" />
+        <!--<link rel="stylesheet" href="<?php // echo SITE_URL ?>/vendor/owl2/owl.carousel.min.css" type="text/css" />-->
+        <!--<link rel="stylesheet" href="<?php // echo SITE_URL ?>/vendor/owl2/owl.theme.default.min.css" type="text/css" />-->
 
 
         <!--CSS-->
