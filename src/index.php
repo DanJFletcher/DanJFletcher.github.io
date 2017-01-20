@@ -43,13 +43,13 @@
             <div class="owl-carousel owl-theme">
               <div>
                 <h3 class="showcase-title">The Family Central Restaruant</h3>
-                <img src="<?= SITE_URL ?>/images/screenshots/family_central_landing_page.png" alt="Family Central Restaruant landing page">
+                <img src="<?= SITE_URL ?>/images/screenshots/family_central_landing_page.jpg" alt="Family Central Restaruant landing page">
                 <p>Dynamic events calendar and custom event pages.</p>
                 <a href="http://familycentral.ca/" target="_blank" class="btn btn-light">Visit Site</a>
               </div>
               <div>
                 <h3 class="showcase-title">The London Beatles Fest Trivia</h3>
-                <img src="<?= SITE_URL ?>/images/screenshots/beatles_landing_page.png" alt="The London Beatles Festival Trivia landing page">
+                <img src="<?= SITE_URL ?>/images/screenshots/beatles_landing_page.jpg" alt="The London Beatles Festival Trivia landing page">
                 <p>Multiple choice, timed quiz that has user authentication, custom admin dashboard and date-triggered events.</p>
                 <a href="http://trivia.thelondonbeatlesfestival.com/" target="_blank" class="btn btn-light">Visit Site</a>
               </div>
