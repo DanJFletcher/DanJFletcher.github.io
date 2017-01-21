@@ -9,7 +9,7 @@
  */
 
 // Require Dependancies here
-require('../env.php');
+require('env.php');
 
 ?>
 
@@ -66,9 +66,9 @@ require('../env.php');
 
 
 <!-- Load Custom Scripts -->
-<script src="js/loader.js"></script>
-<script src="js/plugins.js"></script>
-<script src="js/smoothscroll.js"></script>
+<!--<script src="js/loader.js"></script>-->
+<script src="js/plugins.min.js"></script>
+<script src="js/smoothscroll.min.js"></script>
 
 </body>
 </html>
