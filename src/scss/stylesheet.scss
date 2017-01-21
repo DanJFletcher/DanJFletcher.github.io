@@ -22,22 +22,6 @@ $twiiter: #2dabe0;
 $github: #111;
 $facebook: #4e71a6;
 
-/*RESET*/
-
-	* {
-		box-sizing: border-box;
-		padding: 0;
-		margin: 0;
-		text-decoration: none;
-		color: inherit;
-		-webkit-appearance: none;
-		outline: none;
-	}
-
-	/* TEACH OLD BROWSERS HTML5 */
-	header, section, footer, aside, nav, main, article, figure {
-    display: block;
-}
 
 body {
 	background-image: url(../images/backgrounds/eggshell.jpg);
